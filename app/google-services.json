@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110530181374",
+    "project_id": "tablesalt-d4ca9",
+    "storage_bucket": "tablesalt-d4ca9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110530181374:android:b5c63496deb41f8ba08daf",
+        "android_client_info": {
+          "package_name": "my.tablesalt.tablesalt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1v0HxCCaJU4HYQYC2DHrs7IH9FLV9Gd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">TableSalt</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+    </string-array>
+
+    <string-array name="DhakaCities">
+        <item>Dhanmondi</item>
+        <item>Gulshan</item>
+        <item>Uttara</item>
+    </string-array>
+
+    <string-array name="ChittagongCities">
+        <item>Bayezid</item>
+        <item>Pahartali</item>
+        <item>Panchlaish</item>
+    </string-array>
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+
+    <string-array name="DishName">
+        <item>Bhuna Khichuri</item>
+        <item>Shutki Bhuna</item>
+        <item>Begun Bharta</item>
+        <item>Aloo Bharta</item>
+        <item>Dim Curry</item>
+        <item>Rui Maach Curry</item>
+        <item>Ilish Maach Bharta</item>
+        <item>Kala Bhuna</item>
+        <item>Kacchi Biryani</item>
+        <item>Shorshe Ilish</item>
+        <item>Chingri Malai Curry</item>
+        <item>Fuchka</item>
+        <item>Chotpoti</item>
+        <item>Patla Dal</item>
+        <item>Tehari</item>
+        <item>Panta Bhat</item>
+        <item>Chicken Curry</item>
+        <item>Beef Rezala</item>
+        <item>Payesh</item>
+        <item>Sandesh</item>
+        <item>Rosogolla</item>
+        <item>Mishti Doi</item>
+        <item>Shutki Vorta</item>
+        <item>Ghonto</item>
+        <item>Morog Polao</item>
+        <item>Chingri Vorta</item>
+        <item>Dim Bharta</item>
+        <item>Labra</item>
+        <item>Tengra Maach Curry</item>
+        <item>Pabda Maach Curry</item>
+        <item>Luchi</item>
+        <item>Beef Curry</item>
+        <item>Macher Paturi</item>
+        <item>Narkel Naru</item>
+        <item>Chingri Dopeaja</item>
+        <item>Haleem</item>
+        <item>Paratha</item>
+        <item>Shak Bhaji</item>
+        <item>Shutki Chorchori</item>
+        <item>Muri Ghonto</item>
+    </string-array>
+
+</resources>
